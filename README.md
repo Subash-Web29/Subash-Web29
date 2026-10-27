@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:A855F7,100:1E1B4B&height=200&section=header&text=SUBASH%20DEV&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
 # 💜 SUBASH K
 
 ### `Full Stack Developer | AI & ML Enthusiast`
